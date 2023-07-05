@@ -1,0 +1,238 @@
+{
+    "data": [
+        {
+            "title": "Outlaws Studio Online Store",
+            "slug": "outlaws-studio-online-store",
+            "primaryImg": "./porto-img/outlaws-studio/3.png",
+            "detail": {
+                "dir": "/porto-img/outlaws-studio/",
+                "totalImg": "13",
+                "description": "Outlaws Studo Store is an online shop apps to handle  ordering customer in the whole of country and. This web build Dashboard admin from scratch and This UI/UX is inspired by Converse. ",
+                "fitur": [
+                    "Access: owner, karyawan, pembeli",
+                    "Manage ordering",
+                    "Control the item, size, price, and quantity",
+                    "Shopping cart",
+                    "Wishlist",
+                    "Export CSV and PDF",
+                    "Delivery order",
+                    "Paymet gateway",
+                    "Forgot password",
+                    "Verivy Account",
+                    "Suspend Account"
+                ],
+                "technology": ["PHP", "LARAVEL", "JQUERY", "TAILWIND", "MYSQL"],
+                "integration": ["Rajaongkir", "Midtrans", "Email"],
+                "link": "https://github.com/fahmihwan/outlaws-studio-online-store.git"
+            }
+        },
+        {
+            "title": "Myorder Seacoff",
+            "slug": "myorder-seacoff",
+            "primaryImg": "./porto-img/myorder-seacoff/4.png",
+            "detail": {
+                "dir": "/porto-img/myorder-seacoff/",
+                "totalImg": "16",
+                "description": "I am building a web application named MyorderSeacoff. This app allows you to order a menu without having to wait in line. First option: simply ordering through web apps, authenticating with a QR code in the middle of the table, and paying with e-money; or, the second option, visiting the cashier to order from the menu. ",
+                "fitur": [
+                    "Access: owner, waiters, customers",
+                    "Authenticate the customer by scanning the QR code",
+                    "Real time notification Ajax",
+                    "Tracking orders for customers (pending, in process, finished)",
+                    "Payment Gateway",
+                    "Shopping Cart customer and cahsir",
+                    "Report"
+                ],
+                "technology": ["PHP", "LARAVEL", "Vanilla Javascript", "BOOTSTRAP", "MYSQL"],
+                "integration": ["QRcode", "Midtrans", "Email"],
+                "link": "https://github.com/fahmihwan/My-order-seacoff.git"
+            }
+        },
+        {
+            "title": "Penghitungan suara DPRD Jambi",
+            "slug": "penghitungan-suara-dprd-jambi",
+            "primaryImg": "./porto-img/sim-penghitungan-suara-dprd-jambi/5.png",
+            "detail": {
+                "dir": "/porto-img/sim-penghitungan-suara-dprd-jambi/",
+                "totalImg": "7",
+                "description": "the project from one of candidate DPRD Jambi (Mr. Sutejo), just to collect votes from her from the whole city in Jambi Province. This application is used by 100++ users (saksi) . the purpose to seeing quicly visually data.",
+                "fitur": [
+                    "access : admin & users",
+                    "manange users (saksi)",
+                    "input votes from users",
+                    "charts",
+                    "export to excel"
+                ],
+                "technology": ["REACT JS", "LARAVEL", "INERTIA", "MATERIAL UI", "MYSQL"],
+                "integration": ["API Data Wilayah Indonesia "],
+                "link": ""
+            }
+        },
+        {
+            "title": "E-Raport",
+            "slug": "e-raport-sd-dahromo",
+            "primaryImg": "./porto-img/e-raport-sd-dahromo/5.png",
+            "detail": {
+                "dir": "/porto-img/e-raport-sd-dahromo/",
+                "totalImg": "6",
+                "description": "E-Raport is an academic information system used to input web-based student value data.",
+                "fitur": [
+                    "access : admin, guru (wali kelas / guru) ",
+                    "manage teacher & student information",
+                    "input scores & personality value of student",
+                    "manage student transfers (graduated / out)",
+                    "Find student reports from the whole class ",
+                    "export pdf"
+                ],
+                "technology": ["REACT JS", "LARAVEL", "INERTIA", "BOOTSTRAP", "MYSQL"],
+                "integration": [],
+                "link": "https://github.com/fahmihwan/E-raport-SD1darma"
+            }
+        },
+        {
+            "title": "Inventori Laboratorium",
+            "slug": "inventori-laboratorium",
+            "primaryImg": "./porto-img/inventori-laboratorium/5.png",
+            "detail": {
+                "dir": "/porto-img/inventori-laboratorium/",
+                "totalImg": "5",
+                "description": "This application will record asset data at Laboratorium SMK TAMTAMA KARANGANYAR KEBUMEN",
+                "fitur": ["Receiving", "Issuing", "Mutation", "Chart", "Report, Print"],
+                "technology": ["REACT JS", "LARAVEL", "INERTIA", "BOOTSTRAP", "MYSQL"],
+                "integration": [],
+                "link": "https://github.com/fahmihwan/inventory-laboratorium.git"
+            }
+        },
+        {
+            "title": "Sistem Informasi Managemen Aset",
+            "slug": "sim-aset",
+            "primaryImg": "./porto-img/sim-aset/1.png",
+            "detail": {
+                "dir": "/porto-img/sim-aset/",
+                "totalImg": "6",
+                "description": "This application will record asset data at MTS",
+                "fitur": ["Receiving", "Issuing", "Mutation", "Chart", "Report"],
+                "technology": ["REACT JS", "LARAVEL", "PHP", "INERTIA", "BREEZE", "TAILWIND", "MYSQL"],
+                "integration": [],
+                "link": "https://github.com/fahmihwan/sim-aset-react-laravel.git"
+            }
+        },
+        {
+            "title": "Simple Shopping Cart React",
+            "slug": "react-shopping-cart",
+            "primaryImg": "./porto-img/react-shopping-cart/1.png",
+            "detail": {
+                "dir": "/porto-img/react-shopping-cart/",
+                "totalImg": "1",
+                "description": "This website is a simple shopping cart inspired by Pizza Hut.",
+                "fitur": [],
+                "technology": ["REACT JS", "BOOTSTRAP"],
+                "integration": [],
+                "link": "https://github.com/fahmihwan/simple-shoppingCart-react.git"
+            }
+        },
+        {
+            "title": "Netflix Clone",
+            "slug": "netflix-clone-react",
+            "primaryImg": "./porto-img/netflix-clone-react/1.png",
+            "detail": {
+                "dir": "/porto-img/netflix-clone-react/",
+                "totalImg": "4",
+                "description": "This Netflix web clone only shows a current informational film, this information is obtained from TMDB.",
+                "fitur": [
+                    "Sort by Upcoming, Popular, Trending, Top-rated, and Horror.",
+                    "Authenticate email",
+                    "Like Movie"
+                ],
+                "technology": ["REACT JS", "TAILWIND", "FIREBASE"],
+                "integration": ["TMDB"],
+                "link": "https://movie-react-clone-7acf9.web.app/"
+            }
+        },
+        {
+            "title": "Sistem Informasi Perpustakaan",
+            "slug": "si-perpustakaan",
+            "primaryImg": "./porto-img/si-perpustakaan/2.png",
+            "detail": {
+                "dir": "/porto-img/si-perpustakaan/",
+                "totalImg": "5",
+                "description": "This application records borrowing transactions for books at the library at SMP Muhammadiyah 2 Gamping.",
+                "fitur": [
+                    "Can access: operator, kepala perpustakaan",
+                    "Manage books",
+                    "Manange borrowing transaction",
+                    "Manage  book returns",
+                    "Manage fine",
+                    "Manange members",
+                    "Report"
+                ],
+                "technology": ["PHP", "LARAVEL", "BOOTSTRAP", "JQUERY", "MYSQL"],
+                "integration": [],
+                "link": "https://github.com/fahmihwan/sistem-informasi-perpustakaan.git"
+            }
+        },
+        {
+            "title": "Company Profile Bumi Balakosa",
+            "slug": "company-profile-bumibalakosa",
+            "primaryImg": "./porto-img/company-profile-bumibalakosa/1.png",
+            "detail": {
+                "dir": "/porto-img/company-profile-bumibalakosa/",
+                "totalImg": "3",
+                "description": "Its landing page company profile at PT.bumi balakosa This is the company profile for PT.Bumi Balakosa. ",
+                "fitur": ["Send message via email", "Change language to bahasa"],
+                "technology": ["REACT JS", "BOOTSTRAP"],
+                "integration": ["Email Js"],
+                "link": "https://www.bumibalakosa.com"
+            }
+        },
+        {
+            "title": "Bukatutup Second Inventory Thrift",
+            "slug": "inventory-thrift",
+            "primaryImg": "./porto-img/inventory-thrift/3.png",
+            "detail": {
+                "dir": "/porto-img/inventory-thrift/",
+                "totalImg": "5",
+                "description": "This website describes the inventory apps for Thrift Marketplace.",
+                "fitur": ["Receiving", "Issuing", "Manange item ", "Report"],
+                "technology": ["PHP", "LARAVEL", "BOOTSTRAP", "JQUERY", "MYSQL"],
+                "integration": [],
+                "link": "https://github.com/fahmihwan/inventory-buka-tutup-second-thrift.git"
+            }
+        },
+        {
+            "title": "Simple online store",
+            "slug": "simple-online-store",
+            "primaryImg": "./porto-img/simple-online-store/1.png",
+            "detail": {
+                "dir": "/porto-img/simple-online-store/",
+                "totalImg": "3",
+                "description": "this is an simple online shop apps",
+                "fitur": ["Manage Item", "Manage Transaction", "Invoice", "Comment"],
+                "technology": ["PHP", "CodeIgniter 4", "BOOTSTRAP", "JQUERY", "MYSQL"],
+                "integration": ["Rajaongkir"],
+                "link": "https://github.com/fahmihwan/simple-online-store-ci4.git"
+            }
+        },
+        {
+            "title": "LBS Auto Service",
+            "slug": "lbs-auto-service",
+            "primaryImg": "./porto-img/lbs-auto-service/1.png",
+            "detail": {
+                "dir": "/porto-img/lbs-auto-service/",
+                "totalImg": "5",
+                "description": "This app will record items at the repair shop.",
+                "fitur": [
+                    "Manage stock",
+                    "Manage supplier",
+                    "Manage montir",
+                    "Issuing",
+                    "Receiving",
+                    "Report"
+                ],
+                "technology": ["PHP", "BOOTSTRAP", "JQUERY", "MYSQL"],
+                "integration": [],
+                "link": "https://github.com/fahmihwan/lbs-auto-service.git"
+            }
+        }
+    ]
+}

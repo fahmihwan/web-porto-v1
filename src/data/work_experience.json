@@ -1,0 +1,67 @@
+{
+    "data": [
+        {
+            "title": "WMS Application Go-Live Trainer",
+            "company": "PT Sinergi Digital Solusindo",
+            "category": "Freelance",
+            "duration": "Jun 2022 (1 week)",
+            "description": "When I was a bachelor's student, I took a job as a freelance trainer for one week at PT. Pertamina Lubricants, based on DSP Batakan, Balikpapan. My daily job was to :",
+            "subDescription": [
+                "Train employees to use the Warehouse Management System Applications",
+                "Working with their company to handle inbound and outbound",
+                "Reporting issues in WMS applications to customer service"
+            ]
+        },
+        {
+            "title": "Study Independent React JS Front-End Engineer",
+            "company": "Alterra Academy ",
+            "category": "Internship",
+            "duration": "Feb 2022 - May 2022",
+            "description": "I also participated in a Study independent Program at Kampus Merdeka. I asked many questions and learned about web development. My daily tasks included:",
+            "subDescription": [
+                "Learn basic UI/UX with Figma, Git, React.Js, Redux, GraphQL, and Deployment Project",
+                "Making some mini projects ",
+                "Finished the daily task"
+            ]
+        },
+        {
+            "title": "Frontend Web Developer",
+            "company": "PT.Gama Informatika",
+            "category": "Internship",
+            "duration": "Sep 2021 - Jan 2022 ",
+            "description": "",
+            "subDescription": [
+                "Slicing from the UI/UX design wireframe",
+                "Consume Api From Backend",
+                "Build the Tambak Udang frontend using the Angular framework ",
+                "Collaborate with the System Analyst, UI/UX designer, and Backend",
+                "Mentoring class with materials about Analyst System, Ui/UX, Github, CI/CD, Angular, and Lumen JWT"
+            ]
+        },
+        {
+            "title": "Assistant Lecturer",
+            "company": "Universitas Teknologi Yogyakarta",
+            "category": "Contract",
+            "duration": "Aug 2021 - Jan 2022",
+            "description": "",
+            "subDescription": [
+                "Teaching a web programming practice course for one semester (3 SKS) ",
+                "Preparing learning materials about HTML, CSS, JS, PHP, jQuery, and MySQL ",
+                "Create a weekly task",
+                "Correcting weekly student tasks",
+                "Creating student task assessment reports"
+            ]
+        },
+        {
+            "title": "Web Programmer",
+            "company": "SEVEN INC JOGJA",
+            "category": "Internship",
+            "duration": "Sep 2021 - Dec 2021",
+            "description": "",
+            "subDescription": [
+                "Working with Ci4",
+                "Fixing bugs at Djuragan.com- Working with Ci4 - Fixing bugs at Djuragan.com"
+            ]
+        }
+    ]
+}

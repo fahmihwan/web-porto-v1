@@ -1,0 +1,36 @@
+{
+    "data": [
+        {
+            "title": "Laravel",
+            "value": "80"
+        },
+        {
+            "title": "CodeIgniter 4",
+            "value": "75"
+        },
+        {
+            "title": "ReactJs",
+            "value": "70"
+        },
+        {
+            "title": "AngularTs",
+            "value": "50"
+        },
+        {
+            "title": "Javascript",
+            "value": "70"
+        },
+        {
+            "title": "PHP",
+            "value": "70"
+        },
+        {
+            "title": "Java",
+            "value": "55"
+        },
+        {
+            "title": "MYSQL",
+            "value": "75"
+        }
+    ]
+}

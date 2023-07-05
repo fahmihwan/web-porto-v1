@@ -1,0 +1,173 @@
+/* @import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,200;0,300;1,100&family=Quicksand:wght@400;700&display=swap"); */
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,200;0,300;1,100&family=Quicksand:wght@300;400;500;600;700&display=swap");
+* {
+    font-family: "Montserrat", sans-serif;
+    font-family: "Quicksand", sans-serif;
+}
+
+/* scroll bar */
+/* width */
+::-webkit-scrollbar {
+    width: 5px;
+    height: 5px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+    background-color: rgb(183, 183, 183);
+    border-radius: 10px;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background: #7e22ce;
+    border-radius: 10px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+    background: #b30000;
+}
+
+/* PORTO DARK */
+.listPortoDark {
+    border-width: 2px;
+    border-style: solid;
+    border-image: linear-gradient(to bottom, #a50daf, #35d2c2) 1;
+    transition: 0.2s;
+    -webkit-transition: 0.2s;
+}
+:hover.listPortoDark {
+    animation: dataPortoDark 0.6s linear infinite;
+    border-width: 10px;
+}
+
+/* animation */
+@keyframes dataPortoDark {
+    0% {
+        border-image: linear-gradient(to right, #a50daf, #35d2c2) 1;
+    }
+    25% {
+        border-image: linear-gradient(to top, #a50daf, #35d2c2) 1;
+    }
+    50% {
+        border-image: linear-gradient(to left, #a50daf, #35d2c2) 1;
+    }
+}
+
+/* PORTO LIGHT */
+.listPortoLight {
+    border-top: 1px solid gainsboro;
+    border-right: 1px solid gainsboro;
+    border-left: 1px solid gainsboro;
+    box-shadow: rgba(0, 0, 0, 0.45) 0px 25px 20px -20px;
+    background-color: #6b5dd3;
+}
+.listPortoLight button {
+    box-shadow: rgba(0, 0, 0, 0.09) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px,
+        rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px;
+    background-color: white;
+    border-radius: 10px;
+}
+
+/* DARKMODE */
+.profilImgDark {
+    isolation: isolate;
+    border-radius: 75% 25% 75% 25% / 32% 82% 18% 68%;
+    overflow: hidden !important;
+    box-shadow: rgba(0, 0, 0, 0.17) 0px -23px 25px 0px inset, rgba(0, 0, 0, 0.15) 0px -36px 30px 0px inset,
+        rgba(0, 0, 0, 0.1) 0px -79px 40px 0px inset, rgba(0, 0, 0, 0.06) 0px 2px 1px,
+        rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px,
+        rgba(0, 0, 0, 0.09) 0px 32px 16px;
+    height: 250px;
+    width: 250px;
+    position: relative;
+    display: flex;
+    align-items: center;
+    background: rgb(255, 255, 255);
+    background: linear-gradient(
+        200deg,
+        rgba(255, 255, 255, 1) 0%,
+        rgba(208, 7, 157, 1) 0%,
+        rgba(213, 57, 241, 1) 38%,
+        rgba(43, 0, 204, 1) 98%
+    );
+}
+.profilImgLight {
+    isolation: isolate;
+    height: 250px;
+    box-shadow: rgba(0, 0, 0, 0.17) 0px -23px 25px 0px inset, rgba(0, 0, 0, 0.15) 0px -36px 30px 0px inset,
+        rgba(0, 0, 0, 0.1) 0px -79px 40px 0px inset, rgba(0, 0, 0, 0.06) 0px 2px 1px,
+        rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px,
+        rgba(0, 0, 0, 0.09) 0px 32px 16px;
+    width: 250px;
+    position: relative;
+    display: flex;
+    align-items: center;
+    border-radius: 75% 25% 75% 25% / 32% 82% 18% 68%;
+    overflow: hidden !important;
+}
+.card-list-porto-container-img {
+    position: relative;
+}
+.card-info-technology {
+    visibility: hidden;
+    opacity: 0;
+    transition-duration: 0.6s;
+    position: absolute;
+    background-color: black;
+    color: white;
+    width: 100%;
+    padding: 2px;
+    bottom: 0;
+}
+.card-list-porto:hover .card-info-technology {
+    opacity: 0.8;
+    visibility: visible;
+}
+
+/* PROGRESSBAR LIGHT */
+.progressbar-skill-light {
+    width: 100%;
+    border-radius: 5px;
+    overflow: hidden;
+}
+.progressbar-skill-light::-webkit-progress-bar {
+    background-color: rgb(237, 237, 237);
+}
+.progressbar-skill-light::-webkit-progress-value {
+    background: #6b5dd3;
+}
+
+/* PROGRESSBAR DARK */
+.progressbar-skill-dark {
+    width: 100%;
+    border-radius: 5px;
+    overflow: hidden;
+}
+.progressbar-skill-dark::-webkit-progress-bar {
+    background-color: #313131;
+}
+.progressbar-skill-dark::-webkit-progress-value {
+    background: rgb(178, 45, 201);
+    background: linear-gradient(
+        270deg,
+        rgba(178, 45, 201, 1) 12%,
+        rgba(100, 58, 170, 1) 55%,
+        rgba(34, 0, 163, 1) 90%
+    );
+}
+
+.dropdown-content {
+    max-height: 0;
+    transition-duration: 0.3s;
+}
+.dropdown-content.active {
+    max-height: 200px;
+    opacity: 1;
+    overflow: visible;
+}
+.dropdown-content.inactive {
+    opacity: 0;
+    overflow: hidden;
+}
