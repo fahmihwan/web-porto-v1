@@ -7,6 +7,7 @@ import { useSelector } from "react-redux";
 import { Routes, Route, useLocation } from "react-router-dom";
 
 import TopNav from "./components/TopNav";
+import BottomNav from "./components/BottomNav";
 import Home from "./menu/Home";
 import Portfolio from "./menu/Portfolio";
 import Detail from "./menu/Detail";
@@ -49,7 +50,7 @@ function App() {
                 <Route path="/portfolio/:id" element={<Detail />} />
                 <Route path="/about" element={<About />} />
             </Routes>
-            {/* <BottomNav /> */}
+            <BottomNav />
         </div>
     );
 }
