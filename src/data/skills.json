@@ -5,7 +5,7 @@
             "value": "80"
         },
         {
-            "title": "CodeIgniter 4",
+            "title": "CodeIgniter",
             "value": "75"
         },
         {
@@ -15,6 +15,10 @@
         {
             "title": "AngularTs",
             "value": "50"
+        },
+        {
+            "title": "NodeJs",
+            "value": "40"
         },
         {
             "title": "Javascript",
@@ -29,8 +33,16 @@
             "value": "55"
         },
         {
-            "title": "MYSQL",
+            "title": "MySQL",
             "value": "75"
+        },
+        {
+            "title": "PostgreSql",
+            "value": "75"
+        },
+        {
+            "title": "Linux",
+            "value": "50"
         }
     ]
 }

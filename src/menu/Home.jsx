@@ -12,14 +12,16 @@ const Home = () => {
     const theme = useSelector((state) => state.theme.value);
 
     return (
-        <div className="">
+        // <div className="">
+        <>
+            {/* <div className="relative z-50  flex flex-col-reverse md:flex-row mt-10 mx-5 md:mx-20 lg:mx-40  "> */}
             <div className="relative z-50  flex flex-col-reverse md:flex-row mt-10 mx-5 md:mx-20 lg:mx-40  ">
                 <div className="w-full md:w-8/12 ">
                     <div className="pt-10 h-full ">
                         <section className="mb-5 md:mb-10 ">
                             <p
                                 data-aos="fade-right"
-                                className="text-xl md:text-4xl mb-2 text-blue-600 dark:text-white"
+                                className="text-xl md:text-5xl mb-2 text-blue-600 dark:text-white"
                             >
                                 Hi, I'm <span className="text-purple-500 ">Fahmi Ichwanurrohman</span>
                             </p>
@@ -87,7 +89,8 @@ const Home = () => {
                     d="M0,32L48,37.3C96,43,192,53,288,96C384,139,480,213,576,218.7C672,224,768,160,864,149.3C960,139,1056,181,1152,165.3C1248,149,1344,75,1392,37.3L1440,0L1440,320L1392,320C1344,320,1248,320,1152,320C1056,320,960,320,864,320C768,320,672,320,576,320C480,320,384,320,288,320C192,320,96,320,48,320L0,320Z"
                 ></path>
             </svg>
-        </div>
+        {/* // </div> */}
+        </>
     );
 };
 

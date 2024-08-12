@@ -7,7 +7,7 @@ import "aos/dist/aos.css";
 
 import summary from "../data/summary.json";
 // icon
-import { FaReact, FaLaravel, FaPhp, FaJava } from "react-icons/fa";
+import { FaReact, FaLaravel, FaPhp, FaJava, FaNodeJs, FaNode, FaUbuntu, FaLinux } from "react-icons/fa";
 import { SiJavascript, SiAngular, SiCodeigniter } from "react-icons/si";
 import { SlArrowDown } from "react-icons/sl";
 import { GrMysql } from "react-icons/gr";
@@ -226,10 +226,12 @@ const FilterIcon = ({ icon }) => {
     switch (icon) {
         case "Laravel":
             return <FaLaravel className="text-2xl" />;
-        case "CodeIgniter 4":
+        case "CodeIgniter":
             return <SiCodeigniter className="text-2xl" />;
         case "ReactJs":
             return <FaReact className="text-2xl" />;
+        case "NodeJs":
+            return <FaNodeJs className="text-2xl" />;
         case "Javascript":
             return <SiJavascript className="text-2xl" />;
         case "PHP":
@@ -238,8 +240,12 @@ const FilterIcon = ({ icon }) => {
             return <FaJava className="text-2xl" />;
         case "AngularTs":
             return <SiAngular className="text-2xl" />;
-        case "MYSQL":
+        case "MySQL":
             return <GrMysql className="text-2xl" />;
+        case "MySQL":
+                return <FaAsking className="text-2xl" />;
+        case "Linux":
+            return <FaLinux className="text-2xl" />;
         default:
             break;
     }

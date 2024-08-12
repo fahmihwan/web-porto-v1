@@ -1,8 +1,21 @@
 {
     "data": [
         {
+            "title": "Fullstack Web Deveoper",
+            "company": "PT. Subaga Digital Medika",
+            "category": "Full Time",
+            "duration": "Aug 2023 - Juli 2024",
+            "description": "With experience in the hospital, I've served as a Fullstack Developer, ensuring the successful implementation and operation of SIMRS applications. My responsibilities include :",
+            "subDescription": [
+                "Understanding the hospital workflow, Training users.",
+                "Customization features, fixing bug & optimization.",
+                "Integrating with E-Klaim BPJS API, Bridging medical devices",
+                "Working with Laravel, Angular, and PostgreSQL, Linux."
+            ]
+        },
+        {
             "title": "WMS Application Go-Live Trainer",
-            "company": "PT Sinergi Digital Solusindo",
+            "company": "PT. Sinergi Digital Solusindo",
             "category": "Freelance",
             "duration": "Jun 2022 (1 week)",
             "description": "When I was a bachelor's student, I took a job as a freelance trainer for one week at PT. Pertamina Lubricants, based on DSP Batakan, Balikpapan. My daily job was to :",
@@ -26,7 +39,7 @@
         },
         {
             "title": "Frontend Web Developer",
-            "company": "PT.Gama Informatika",
+            "company": "PT. Gama Informatika",
             "category": "Internship",
             "duration": "Sep 2021 - Jan 2022 ",
             "description": "",

@@ -9,7 +9,7 @@ const ProfileImg = () => {
                 <img
                     data-aos="zoom-out"
                     data-aos-duration="500"
-                    className="w-60"
+                    className=""
                     alt="Lightning"
                     src="/foto-profile/fahmi.png"
                 />

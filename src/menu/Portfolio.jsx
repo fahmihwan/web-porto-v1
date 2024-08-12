@@ -67,7 +67,7 @@ const Card = ({ data, increment }) => {
             data-aos="zoom-in"
             data-aos-offset="0"
             data-aos-delay={size > 650 ? 50 * increment : 200}
-            className="relative group md:h-72 md:mb-5"
+            className="relative group md:h-72 md:mb-5" style={{marginBottom: size > 650 ? "100px" : "0"}}
         >
             <div
                 className={`card-list-porto ${
