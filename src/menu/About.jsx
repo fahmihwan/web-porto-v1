@@ -241,9 +241,7 @@ const FilterIcon = ({ icon }) => {
         case "AngularTs":
             return <SiAngular className="text-2xl" />;
         case "MySQL":
-            return <GrMysql className="text-2xl" />;
-        case "MySQL":
-                return <FaAsking className="text-2xl" />;
+            return <GrMysql className="text-2xl" />;;
         case "Linux":
             return <FaLinux className="text-2xl" />;
         default:
