@@ -49,6 +49,25 @@
             }
         },
         {
+            "title": "Car Rentals",
+            "slug": "car-rentals",
+            "primaryImg": "./porto-img/car-rentals/1.png",
+            "detail": {
+                "dir": "/porto-img/car-rentals/",
+                "totalImg": "4",
+                "description": "Car rentals is an application for renting cars online. ",
+                "fitur": [
+                    "User can rent out his car, or the user can rent a car",
+                    "Pickup and Dropoff for rent",
+                    "Payment Gateway",
+                    "Report"
+                ],
+                "technology": ["NodeJs", "Express", "ReactJS", "TAILWIND", "PostgreSql"],
+                "integration": ["Midtrans","API Data Wilayah Indonesia"],
+                "link": "https://github.com/fahmihwan/carsrental-react-express.git"
+            }
+        },
+        {
             "title": "Penghitungan suara DPRD Jambi",
             "slug": "penghitungan-suara-dprd-jambi",
             "primaryImg": "./porto-img/sim-penghitungan-suara-dprd-jambi/5.png",

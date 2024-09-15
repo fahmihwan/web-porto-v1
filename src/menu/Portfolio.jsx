@@ -67,19 +67,20 @@ const Card = ({ data, increment }) => {
             data-aos="zoom-in"
             data-aos-offset="0"
             data-aos-delay={size > 650 ? 50 * increment : 200}
-            className="relative group md:h-72 md:mb-5" style={{marginBottom: size > 650 ? "100px" : "0"}}
+            className="relative group md:h-72 md:mb-5" style={{ marginBottom: size > 650 ? "100px" : "0" }}
         >
             <div
-                className={`card-list-porto ${
-                    theme === "dark" ? "listPortoDark" : "listPortoLight overflow-hidden rounded-lg"
-                }`}
+                className={`card-list-porto ${theme === "dark" ? "listPortoDark" : "listPortoLight overflow-hidden rounded-lg"
+                    }`}
             >
                 <div className="card-list-porto-container-img">
-                    <LazyLoadImage
-                        className=" bg-purple-600 img-lazy"
-                        src={data.primaryImg}
-                        alt="Image Alt"
-                    />
+                    <div className={size > 800 && "h-80"}>
+                        <LazyLoadImage
+                            className=" bg-purple-600 img-lazy h-full "
+                            src={data.primaryImg}
+                            alt="Image Alt"
+                        />
+                    </div>
                     <div className="card-info-technology text-xs  ">
                         {data?.detail.technology?.map((d) => (
                             <span>{d} &nbsp; &nbsp;</span>
