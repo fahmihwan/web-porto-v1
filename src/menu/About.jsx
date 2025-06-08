@@ -175,11 +175,10 @@ const Skills = () => {
                                     <p className="text-xs">{d.value} %</p>
                                 </div>
                                 <progress
-                                    className={`${
-                                        theme === "dark"
-                                            ? "progressbar-skill-dark"
-                                            : "progressbar-skill-light"
-                                    }`}
+                                    className={`${theme === "dark"
+                                        ? "progressbar-skill-dark"
+                                        : "progressbar-skill-light"
+                                        }`}
                                     value={d.value}
                                     max={100}
                                 ></progress>
@@ -241,9 +240,11 @@ const FilterIcon = ({ icon }) => {
         case "AngularTs":
             return <SiAngular className="text-2xl" />;
         case "MySQL":
-            return <GrMysql className="text-2xl" />;;
+            return <GrMysql className="text-2xl" />;
         case "Linux":
             return <FaLinux className="text-2xl" />;
+        case "Springboot":
+            return <FaJava className="text-2xl" />;
         default:
             break;
     }

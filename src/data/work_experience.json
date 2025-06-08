@@ -1,6 +1,20 @@
 {
     "data": [
         {
+            "title": "Programmer",
+            "company": "PT.Asia Sistem Indonesia",
+            "category": "Full Time",
+            "duration": "Dec 2024 - Juli 2025",
+            "description": "",
+            "subDescription": [
+                "Analyze business needs and translate them into technical specifications",
+                "Identify and resolve performance bottlenecks",
+                "Developed web-based Geographic Information System (GIS) application.",
+                "Maintain regular communication with client, providing updates on project progress concerns",
+                "Working with Active Directory, Nodejs, Reactjs, Postgresql"
+            ]
+        },
+        {
             "title": "Fullstack Web Deveoper",
             "company": "PT. Subaga Digital Medika",
             "category": "Full Time",

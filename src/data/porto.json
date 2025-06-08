@@ -1,6 +1,72 @@
 {
     "data": [
         {
+            "title": "Dashboard360",
+            "slug": "dashboard360",
+            "primaryImg": "./porto-img/dashboard360/3.png",
+            "detail": {
+                "dir": "/porto-img/dashboard360/",
+                "totalImg": "8",
+                "description": "Dashboard360 is an application designed to collect data from BMKG, BNPB, the Food Estate program, and community surveys.",
+                "fitur": [
+                    "Access: Admin, enumerator",
+                    "Data data Food estate & Bencana",
+                    "Data BPS",
+                    "Data BMKG",
+                    "Data BNPB",
+                    "earthquake notifications",
+                    "Create QRcode for survey",
+                    "Community surveys"
+                ],
+                "technology": ["NodeJs", "REACT JS", "PostgreSql"],
+                "integration": ["BMKG", "BNPB","BPS"],
+                "link": ""
+            }
+        },
+        {
+            "title": "SIMRS (Sistem Informasi Rumah Saksi)",
+            "slug": "simrs",
+            "primaryImg": "./porto-img/simrs/2.png",
+            "detail": {
+                "dir": "/porto-img/simrs/",
+                "totalImg": "7",
+                "description": "SIMRS, a hospital information system application, consists of 45 modules, including: Medical Records & Services, BPJS Claims, Finance, Facilities & Infrastructure Human Resources, Management, Inventory, and others",
+                "fitur": [
+                    "Medical Records & Services",
+                    "BPJS Claims",
+                    "Finance",
+                    "Facilities & Infrastructure",
+                    "Human Resources",
+                    "Management",
+                    "Inventory",
+                    "Other"
+                ],
+                "technology": ["Laravel", "Angular", "PostgreSql"],
+                "integration": ["BPJS","SATU SEHAT", "Laboratory Machines","Other"],
+                "link": ""
+            }
+        },
+        {
+            "title": "Ticket Online",
+            "slug": "ticket-online",
+            "primaryImg": "./porto-img/ticket-online/1.png",
+            "detail": {
+                "dir": "/porto-img/ticket-online/",
+                "totalImg": "10",
+                "description": "Online Ticketing is an application for purchasing event tickets, where the tickets are in the form of a QR code used for entry to the event.",
+                "fitur": [
+                    "Scan QR",
+                    "Cart",
+                    "CMS",
+                    "Payment"
+                ],
+                "technology": ["Springboot", "REACT JS", "PostgreSql"],
+                "integration": ["Duitku (Payment Gateway)"],
+                "link": ""
+            }
+        },
+        
+        {
             "title": "Outlaws Studio Online Store",
             "slug": "outlaws-studio-online-store",
             "primaryImg": "./porto-img/outlaws-studio/3.png",
