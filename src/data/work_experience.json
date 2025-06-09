@@ -19,11 +19,11 @@
             "company": "PT. Subaga Digital Medika",
             "category": "Full Time",
             "duration": "Aug 2023 - Juli 2024",
-            "description": "With experience in the hospital, I've served as a Fullstack Developer, ensuring the successful implementation and operation of SIMRS applications. My responsibilities include :",
+            "description": "With experience in the hospital, I've served as a Fullstack Developer, ensuring the successful implementation and maintained web-based Hospital Management System (SIMRS covering modules such as Medical Records & Patient Services, Finance, Facilities & Infrastructure, Pharmacy Warehouse, Human Resources, and Management. My responsibilities include:",
             "subDescription": [
-                "Understanding the hospital workflow, Training users.",
-                "Customization features, fixing bug & optimization.",
-                "Integrating with E-Klaim BPJS API, Bridging medical devices",
+                "Understanding the hospital workflow and Training users.",
+                "Diagnosed and resolved application bugs, feature customization, and enhanced system performance.",
+                "Integrating with E-Klaim BPJS API for national health insurance claim processing and Implementing bridging for integration of medical devices with hospital systems.",
                 "Working with Laravel, Angular, and PostgreSQL, Linux."
             ]
         },
@@ -32,11 +32,11 @@
             "company": "PT. Sinergi Digital Solusindo",
             "category": "Freelance",
             "duration": "Jun 2022 (1 week)",
-            "description": "When I was a bachelor's student, I took a job as a freelance trainer for one week at PT. Pertamina Lubricants, based on DSP Batakan, Balikpapan. My daily job was to :",
+            "description": "When I was a bachelor's student, I took a job as a freelance trainer for one week at PT.Pertamina Lubricants, based on DSP Batakan, Balikpapan. My daily job was to:",
             "subDescription": [
-                "Train employees to use the Warehouse Management System Applications",
-                "Working with their company to handle inbound and outbound",
-                "Reporting issues in WMS applications to customer service"
+                "Delivered on-site training for employees at PT. Pertamina Lubricants (DSP Batakan, Balikpapan) on the use of WMS (Warehouse Management System) applications during system go-live.",
+                "Guided staff in executing inbound and outbound warehouse processes using the WMS (Warehouse Management System) platform.",
+                "Identified, documented, and reported system issues or user challenges to WMS customer support for timely resolution."
             ]
         },
         {
@@ -46,9 +46,10 @@
             "duration": "Feb 2022 - May 2022",
             "description": "I also participated in a Study independent Program at Kampus Merdeka. I asked many questions and learned about web development. My daily tasks included:",
             "subDescription": [
-                "Learn basic UI/UX with Figma, Git, React.Js, Redux, GraphQL, and Deployment Project",
-                "Making some mini projects ",
-                "Finished the daily task"
+                "Learned and app",
+                "lied front-end technologies: React.js, Redux, GraphQL, Figma, Git, and deployment tools.",
+                "Built multiple mini-projects",
+                "Completed daily coding tasks"
             ]
         },
         {
@@ -58,11 +59,11 @@
             "duration": "Sep 2021 - Jan 2022 ",
             "description": "",
             "subDescription": [
-                "Slicing from the UI/UX design wireframe",
-                "Consume Api From Backend",
-                "Build the Tambak Udang frontend using the Angular framework ",
-                "Collaborate with the System Analyst, UI/UX designer, and Backend",
-                "Mentoring class with materials about Analyst System, Ui/UX, Github, CI/CD, Angular, and Lumen JWT"
+                 "Translated UI/UX wireframes into functional and interactive user interfaces.",
+                 "Integrate APIs provided by the backend team to display dynamic content.",
+                 "Devlop the frontend using the Angular framework",
+                 "Collaborate with the System Analyst, UI/UX designer, and Backend",
+                 "Participated in mentorship sessions covering topics such as System Analysis, UI/UX Design Principles, Git & GitHub, CI/CD workflows, Angular, and Lumen with JWT authentication."
             ]
         },
         {
@@ -72,11 +73,9 @@
             "duration": "Aug 2021 - Jan 2022",
             "description": "",
             "subDescription": [
-                "Teaching a web programming practice course for one semester (3 SKS) ",
-                "Preparing learning materials about HTML, CSS, JS, PHP, jQuery, and MySQL ",
-                "Create a weekly task",
-                "Correcting weekly student tasks",
-                "Creating student task assessment reports"
+                "Instructed a web programming lab course",
+                "Prepared and delivered weekly instructional materials on HTML, CSS, JavaScript, PHP, jQuery, and MySQL.",
+                "Designed, assigned, and assessed weekly programming assignments to enhance student understanding and application."
             ]
         },
         {

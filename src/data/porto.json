@@ -3,6 +3,7 @@
         {
             "title": "Dashboard360",
             "slug": "dashboard360",
+            "filter":"work",
             "primaryImg": "./porto-img/dashboard360/3.png",
             "detail": {
                 "dir": "/porto-img/dashboard360/",
@@ -26,6 +27,7 @@
         {
             "title": "SIMRS (Sistem Informasi Rumah Saksi)",
             "slug": "simrs",
+            "filter":"work",
             "primaryImg": "./porto-img/simrs/2.png",
             "detail": {
                 "dir": "/porto-img/simrs/",
@@ -49,6 +51,7 @@
         {
             "title": "Ticket Online",
             "slug": "ticket-online",
+            "filter":"experiment",
             "primaryImg": "./porto-img/ticket-online/1.png",
             "detail": {
                 "dir": "/porto-img/ticket-online/",
@@ -69,6 +72,7 @@
         {
             "title": "Outlaws Studio Online Store",
             "slug": "outlaws-studio-online-store",
+            "filter":"experiment",
             "primaryImg": "./porto-img/outlaws-studio/3.png",
             "detail": {
                 "dir": "/porto-img/outlaws-studio/",
@@ -95,6 +99,7 @@
         {
             "title": "Myorder Seacoff",
             "slug": "myorder-seacoff",
+            "filter":"experiment",
             "primaryImg": "./porto-img/myorder-seacoff/4.png",
             "detail": {
                 "dir": "/porto-img/myorder-seacoff/",
@@ -117,6 +122,7 @@
         {
             "title": "Car Rentals",
             "slug": "car-rentals",
+            "filter":"experiment",
             "primaryImg": "./porto-img/car-rentals/1.png",
             "detail": {
                 "dir": "/porto-img/car-rentals/",
@@ -136,6 +142,7 @@
         {
             "title": "Penghitungan suara DPRD Jambi",
             "slug": "penghitungan-suara-dprd-jambi",
+            "filter":"experiment",
             "primaryImg": "./porto-img/sim-penghitungan-suara-dprd-jambi/5.png",
             "detail": {
                 "dir": "/porto-img/sim-penghitungan-suara-dprd-jambi/",
@@ -156,6 +163,7 @@
         {
             "title": "E-Raport",
             "slug": "e-raport-sd-dahromo",
+            "filter":"experiment",
             "primaryImg": "./porto-img/e-raport-sd-dahromo/5.png",
             "detail": {
                 "dir": "/porto-img/e-raport-sd-dahromo/",
@@ -177,6 +185,7 @@
         {
             "title": "Inventori Laboratorium",
             "slug": "inventori-laboratorium",
+            "filter":"experiment",
             "primaryImg": "./porto-img/inventori-laboratorium/5.png",
             "detail": {
                 "dir": "/porto-img/inventori-laboratorium/",
@@ -191,6 +200,7 @@
         {
             "title": "Sistem Informasi Managemen Aset",
             "slug": "sim-aset",
+            "filter":"experiment",
             "primaryImg": "./porto-img/sim-aset/1.png",
             "detail": {
                 "dir": "/porto-img/sim-aset/",
@@ -205,6 +215,7 @@
         {
             "title": "Simple Shopping Cart React",
             "slug": "react-shopping-cart",
+            "filter":"experiment",
             "primaryImg": "./porto-img/react-shopping-cart/1.png",
             "detail": {
                 "dir": "/porto-img/react-shopping-cart/",
@@ -219,6 +230,7 @@
         {
             "title": "Netflix Clone",
             "slug": "netflix-clone-react",
+            "filter":"experiment",
             "primaryImg": "./porto-img/netflix-clone-react/1.png",
             "detail": {
                 "dir": "/porto-img/netflix-clone-react/",
@@ -237,6 +249,7 @@
         {
             "title": "Sistem Informasi Perpustakaan",
             "slug": "si-perpustakaan",
+            "filter":"experiment",
             "primaryImg": "./porto-img/si-perpustakaan/2.png",
             "detail": {
                 "dir": "/porto-img/si-perpustakaan/",
@@ -259,6 +272,7 @@
         {
             "title": "Company Profile Bumi Balakosa",
             "slug": "company-profile-bumibalakosa",
+            "filter":"experiment",
             "primaryImg": "./porto-img/company-profile-bumibalakosa/1.png",
             "detail": {
                 "dir": "/porto-img/company-profile-bumibalakosa/",
@@ -273,6 +287,7 @@
         {
             "title": "Bukatutup Second Inventory Thrift",
             "slug": "inventory-thrift",
+            "filter":"experiment",
             "primaryImg": "./porto-img/inventory-thrift/3.png",
             "detail": {
                 "dir": "/porto-img/inventory-thrift/",
@@ -287,6 +302,7 @@
         {
             "title": "Simple online store",
             "slug": "simple-online-store",
+            "filter":"experiment",
             "primaryImg": "./porto-img/simple-online-store/1.png",
             "detail": {
                 "dir": "/porto-img/simple-online-store/",
@@ -301,6 +317,7 @@
         {
             "title": "LBS Auto Service",
             "slug": "lbs-auto-service",
+            "filter":"experiment",
             "primaryImg": "./porto-img/lbs-auto-service/1.png",
             "detail": {
                 "dir": "/porto-img/lbs-auto-service/",
